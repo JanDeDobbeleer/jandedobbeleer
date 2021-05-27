@@ -6,7 +6,5 @@ Originally, I started out as a watchmaker but transitioned into software develop
 
 Currently aspiring to become a [GitHub Star ](https://stars.github.com/nominate/) 😉
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jandedobbeleer&theme=github&hide_border=true&bg_color=1C00ff00&color=111111)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
