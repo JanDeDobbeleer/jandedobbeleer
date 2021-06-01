@@ -6,5 +6,6 @@ Originally, I started out as a watchmaker but transitioned into software develop
 
 Currently aspiring to become a [GitHub Star ](https://stars.github.com/nominate/) 😉
 
+![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jandedobbeleer&show_icons=true)
 
 
