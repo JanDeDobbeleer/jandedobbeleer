@@ -1,9 +1,20 @@
 ### Nice to meet you! 👋
 
-[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004199?fullName=Jan%20%20De%20Dobbeleer), [GitHub Star](https://stars.github.com/profiles/jandedobbeleer/), [GitKraken](https://www.gitkraken.com/invite/nQmDPR9D) Ambassador and creator/maintainer of [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh), a prompt theming engine for Powershell and beyond.
+<img src="https://social.ohmyposh.dev/system/custom_emojis/images/000/006/615/original/240d3603bb1d98bb.gif" alt="GitHub Star" width="20"/> <b><a href="https://stars.github.com/profiles/jandedobbeleer/" target="_blank">GitHub Star</a></b></br>
+<img src="https://social.ohmyposh.dev/system/custom_emojis/images/000/005/508/original/86f106c6a052f18a.png" alt="GitHub Star" width="20"/> <b><a href="https://mvp.microsoft.com/en-us/PublicProfile/5004199?fullName=Jan%20%20De%20Dobbeleer" target="_blank">Microsoft MVP</a></b></br>
+<img src="https://social.ohmyposh.dev/system/custom_emojis/images/000/006/084/original/c4d4fda0f91f3dd0.png" alt="GitHub Star" width="20"/> <b><a href="https://www.gitkraken.com/invite/nQmDPR9D" target="_blank">Gitkraken Ambassador</a></b>
 
-Originally, I started out as a watchmaker but transitioned into software development to pursue a passion I had growing up. The baby steps I took as a WindowsPhone developer moved me into interesting positions as app developer, Team lead all the way to managing more people and teams. In 2016 I created a prompt utility for my own needs as the only Windows developer between Unix aficionados which to this day brings joy to a lot of terminals around the world.
+I'm not really great at writing introductions, so I asked [chatgpt][chatgpt] to help me out.
+
+Jan De Dobbeleer is the creator and maintainer of the popular command-line tool [oh-my-posh][oh-my-posh], which allows users to easily customize their terminal prompt. With over 10,000 stars on GitHub and a growing community of users, [oh-my-posh][oh-my-posh] has quickly become a must-have for developers looking to take their terminal experience to the next level.
+
+Jan is a passionate software engineer with a love for creating clean, intuitive, and user-friendly tools. With a background in computer science and years of experience in the industry, he has a deep understanding of what it takes to build successful and widely-used open-source projects.
+
+In addition to [oh-my-posh][oh-my-posh], Jan is also an active contributor to other open-source projects and a frequent speaker at tech conferences and meetups. He is always looking for new ways to improve and expand upon his work, and is constantly pushing the boundaries of what is possible with terminal customization.
+
+If you're a developer looking to improve your terminal experience, or just want to learn more about [oh-my-posh][oh-my-posh] and its creator, be sure to check out Jan's GitHub profile and give his project a star!
 
 ![Jan De Dobeleer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jandedobbeleer&show_icons=true)
 
-
+[chatgpt]: https://openai.com/blog/chatgpt/
+[oh-my-posh]: https://github.com/JanDeDobbeleer/oh-my-posh
