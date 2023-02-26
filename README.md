@@ -4,7 +4,7 @@
 <img src="https://social.ohmyposh.dev/system/custom_emojis/images/000/005/508/original/86f106c6a052f18a.png" alt="GitHub Star" width="20"/> <b><a href="https://mvp.microsoft.com/en-us/PublicProfile/5004199?fullName=Jan%20%20De%20Dobbeleer" target="_blank">Microsoft MVP</a></b></br>
 <img src="https://social.ohmyposh.dev/system/custom_emojis/images/000/006/084/original/c4d4fda0f91f3dd0.png" alt="GitHub Star" width="20"/> <b><a href="https://www.gitkraken.com/invite/nQmDPR9D" target="_blank">Gitkraken Ambassador</a></b>
 
-I'm not really great at writing introductions, so I asked [chatgpt][chatgpt] to help me out.
+I'm not really great at writing introductions, so I asked [ChatGPT][chatgpt] to help me out.
 
 Jan De Dobbeleer is the creator and maintainer of the popular command-line tool [oh-my-posh][oh-my-posh], which allows users to easily customize their terminal prompt. With over 10,000 stars on GitHub and a growing community of users, [oh-my-posh][oh-my-posh] has quickly become a must-have for developers looking to take their terminal experience to the next level.
 
