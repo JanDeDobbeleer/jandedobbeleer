@@ -1,8 +1,8 @@
 ### Nice to meet you! 👋
 
-<img src="https://social.ohmyposh.dev/system/custom_emojis/images/000/006/615/original/240d3603bb1d98bb.gif" alt="GitHub Star" width="20"/> <b><a href="https://stars.github.com/profiles/jandedobbeleer/" target="_blank">GitHub Star</a></b></br>
-<img src="https://social.ohmyposh.dev/system/custom_emojis/images/000/005/508/original/86f106c6a052f18a.png" alt="GitHub Star" width="20"/> <b><a href="https://mvp.microsoft.com/en-us/PublicProfile/5004199?fullName=Jan%20%20De%20Dobbeleer" target="_blank">Microsoft MVP</a></b></br>
-<img src="https://social.ohmyposh.dev/system/custom_emojis/images/000/006/084/original/c4d4fda0f91f3dd0.png" alt="GitHub Star" width="20"/> <b><a href="https://www.gitkraken.com/invite/nQmDPR9D" target="_blank">Gitkraken Ambassador</a></b>
+GitHub Star
+Microsoft MVP
+Gitkraken Ambassador
 
 I'm not really great at writing introductions, so I asked [ChatGPT][chatgpt] to help me out.
 
