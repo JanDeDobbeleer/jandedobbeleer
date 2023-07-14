@@ -1,8 +1,9 @@
 ### Nice to meet you! 👋
 
-GitHub Star
-Microsoft MVP
-Gitkraken Ambassador
+- GitHub Star
+- Microsoft MVP
+- Gitkraken Ambassador
+- Warp Terminal Ambassador
 
 I'm not really great at writing introductions, so I asked [ChatGPT][chatgpt] to help me out.
 
