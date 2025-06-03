@@ -1,11 +1,11 @@
 {
-  "$schema": "https://floss.fund/schema/v1.0.0/funding.schema.json#",
   "version": "v1.0.0",
   "entity": {
     "type": "individual",
     "role": "maintainer",
     "name": "Jan De Dobbeleer",
     "email": "funding@ohmyposh.dev",
+    "phone": "",
     "description": "Maintainer of Oh My Posh and aliae.",
     "webpageUrl": {
       "url": "https://github.com/jandedobbeleer"
@@ -17,10 +17,10 @@
       "name": "Oh My Posh",
       "description": "The most customisable and low-latency cross platform/shell prompt renderer",
       "webpageUrl": {
-        "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        "url": "https://github.com/jandedobbeleer/oh-my-posh"
       },
       "repositoryUrl": {
-        "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        "url": "https://github.com/jandedobbeleer/oh-my-posh"
       },
       "licenses": [
         "MIT"
@@ -38,10 +38,10 @@
       "name": "aliae",
       "description": "Cross shell and platform alias management",
       "webpageUrl": {
-        "url": "https://github.com/JanDeDobbeleer/aliae"
+        "url": "https://github.com/jandedobbeleer/aliae"
       },
       "repositoryUrl": {
-        "url": "https://github.com/JanDeDobbeleer/aliae"
+        "url": "https://github.com/jandedobbeleer/aliae"
       },
       "licenses": [
         "MIT"
@@ -77,6 +77,7 @@
           "github-sponsors"
         ]
       }
-    ]
+    ],
+    "history": null
   }
 }
