@@ -17,7 +17,7 @@
       "name": "Oh My Posh",
       "description": "The most customisable and low-latency cross platform/shell prompt renderer",
       "webpageUrl": {
-        "url": "https://ohmyposh.dev"
+        "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
       },
       "repositoryUrl": {
         "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
@@ -38,7 +38,7 @@
       "name": "aliae",
       "description": "Cross shell and platform alias management",
       "webpageUrl": {
-        "url": "https://aliae.dev"
+        "url": "https://github.com/JanDeDobbeleer/aliae"
       },
       "repositoryUrl": {
         "url": "https://github.com/JanDeDobbeleer/aliae"
