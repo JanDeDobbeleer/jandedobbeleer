@@ -1,0 +1,82 @@
+{
+  "$schema": "https://floss.fund/schema/v1.0.0/funding.schema.json#",
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "maintainer",
+    "name": "Jan De Dobbeleer",
+    "email": "funding@ohmyposh.dev",
+    "description": "Maintainer of Oh My Posh and aliae.",
+    "webpageUrl": {
+      "url": "https://github.com/jandedobbeleer"
+    }
+  },
+  "projects": [
+    {
+      "guid": "oh-my-posh",
+      "name": "Oh My Posh",
+      "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+      "webpageUrl": {
+        "url": "https://ohmyposh.dev"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+      },
+      "licenses": [
+        "MIT"
+      ],
+      "tags": [
+        "terminal",
+        "ohmyposh",
+        "shell",
+        "prompt",
+        "cli"
+      ]
+    },
+    {
+      "guid": "aliae",
+      "name": "aliae",
+      "description": "Cross shell and platform alias management",
+      "webpageUrl": {
+        "url": "https://aliae.dev"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/JanDeDobbeleer/aliae"
+      },
+      "licenses": [
+        "MIT"
+      ],
+      "tags": [
+        "terminal",
+        "aliae",
+        "shell",
+        "alias",
+        "cli"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "github-sponsors",
+        "type": "payment-provider",
+        "address": "https://github.com/sponsors/jandedobbeleer",
+        "description": "Payments up to $12,000 USD per month can be made via Github Sponsors."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "developer-time",
+        "status": "active",
+        "name": "Developer compensation",
+        "description": "This compensates the developers working part-time on the project.",
+        "amount": 0,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": [
+          "github-sponsors"
+        ]
+      }
+    ]
+  }
+}
